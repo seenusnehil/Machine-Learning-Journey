@@ -19,7 +19,9 @@ You all can connect with me on:
 1. [Twitter](https://twitter.com/SnehilSeenu)
 2. [Linkedin](https://www.linkedin.com/in/snehilseenu/)
 3. [Medium Blog](https://medium.com/@snehilseenu)
-4. [Gmail ID](snehilseenu@gmail.com)
+4. [Kaggle](https://www.kaggle.com/snehilseenu)
+
+My Email ID: snehilseenu@gmail.com
 
 
 ### As it is said, practice makes a man perfect, so I Hope I can push my limits and learn ML stuffs consistently, and become a good machine learning engineer in near future!!

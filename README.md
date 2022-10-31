@@ -1,3 +1,5 @@
+> **Note** **[Check out my daily progress over the next 365 Days Of Machine Learning](https://github.com/seenusnehil/Machine-Learning-Journey/blob/master/twitter_update.md)**
+
 # Machine Learning Journey
 Hi guys, starting from November 1, 2022, I'll we starting my 365 days of Machine Learning challenge and push myself to learn daily on a regular basis.
 If you're too a machine learning enthusiast then lets join hands and learn together. The fun part is that we all v=can share, collaborate and learn together.

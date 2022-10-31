@@ -7,17 +7,17 @@
 
 ## About the repository
 ##### This repository will be open sourced, that means you all can interact with my commits, go through it and if you feel to improve the content at any point, you all acn contribute to it.
-###### In this repository, I'll be having:
-###### 1. All the projects I'll be working on.
-###### 2. My daily updates of 365 days learning of ML
+#### In this repository, I'll be having:
+##### 1. All the projects I'll be working on.
+##### 2. My daily updates of 365 days learning of ML
 ##### 
 ## About me
-##### Hi, I am Snehil Seenu, currently a 3rd year CSE undergrad, and I am a machine learning enthusiast.
-##### You all can connect with me on:
-###### 1. [Twitter](https://twitter.com/SnehilSeenu)
-###### 2. [Linkedin](https://www.linkedin.com/in/snehilseenu/)
-###### 3. [Medium Blog](https://medium.com/@snehilseenu)
-###### 4. [Gmail ID](snehilseenu@gmail.com)
+#### Hi, I am Snehil Seenu, currently a 3rd year CSE undergrad, and I am a machine learning enthusiast.
+#### You all can connect with me on:
+##### 1. [Twitter](https://twitter.com/SnehilSeenu)
+##### 2. [Linkedin](https://www.linkedin.com/in/snehilseenu/)
+##### 3. [Medium Blog](https://medium.com/@snehilseenu)
+##### 4. [Gmail ID](snehilseenu@gmail.com)
 
 
 ### As it is said, practice makes a man perfect, so I Hope I can push my limits and learn ML stuffs consistently, and become a good machine learning engineer in near future.

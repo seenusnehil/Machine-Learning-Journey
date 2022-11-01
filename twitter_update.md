@@ -9,4 +9,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
 | Date          | Topic                                                                                | Link             |
 | ---           | -----------------                                                                    |----------------- |
-| 01-11-2022    |Started a new project House-Price-Prediction                                          |
+| 01-11-2022    |Started a new project House-Price-Prediction                                          |https://twitter.com/SnehilSeenu/status/1587469710488408066?s=20&t=eOtufy5yawv0HSKPQezETg

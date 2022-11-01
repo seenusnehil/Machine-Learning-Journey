@@ -4,8 +4,9 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$0$** iterations (days) so far...
+**$1$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
 | ---           | -----------------                                                                    |----------------- |
+| 01-11-2022    |Started a new project House-Price-Prediction                                          |

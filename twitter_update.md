@@ -12,4 +12,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 01-11-2022    |Started a new project House-Price-Prediction                                          |https://twitter.com/SnehilSeenu/status/1587469710488408066?s=20&t=eOtufy5yawv0HSKPQezETg
 | 02-11-2022    |Completed the project House-Price-Prediction                                          |https://twitter.com/SnehilSeenu/status/1587825483986894848?s=20&t=rNNVxSld75x0Bs9u4n6ZgA
 | 03-11-2022    |Studied about Classification and logistic regression                                  |https://twitter.com/SnehilSeenu/status/1588221512863350784?s=20&t=2zCq8qVrVQcD3mflo9ckaA
-| 04-11-2022    |Started the project Tumor detection based on numerical data                           |
+| 04-11-2022    |Started the project Tumor detection based on numerical data                           |https://twitter.com/SnehilSeenu/status/1588488846203027456?s=20&t=hiwh8rL688q--kZ8nrKs_A

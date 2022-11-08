@@ -1,6 +1,6 @@
 # List of all the important articles
 As a part of my 365 days of ML, this file will contain all the important articles link that I have read and found it useful, I hope you'll find it helpful too.
-The articles will be related to Machine Learning, Artificial Intelligence, 
+The articles will be related to Machine Learning, Artificial Intelligence.
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 

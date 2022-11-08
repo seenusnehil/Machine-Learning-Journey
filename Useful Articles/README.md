@@ -7,6 +7,6 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
 | Date          | Name of the Article                                                                  | Link to the article          |
 | ---           | -----------------                                                                    |----------------------------- |
-| 01-11-2022    |Logistic Regression for Machine Learning                                              |https://machinelearningmastery.com/logistic-regression-for-machine-learning/
+| 03-11-2022    |Logistic Regression for Machine Learning                                              |https://machinelearningmastery.com/logistic-regression-for-machine-learning/
 | 08-11-2022    |Artificial Neural Nets Finally Yield Clues to How Brains Learn                        |https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/
 

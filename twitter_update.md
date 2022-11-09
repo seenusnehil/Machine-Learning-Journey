@@ -17,3 +17,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 06-11-2022    |Completed the Breast Tumor Detection Project                                          |https://twitter.com/SnehilSeenu/status/1589295964170629120?s=20&t=6r8cLk4Uy-8NUcUo6pBGVA
 | 07-11-2022    |Understood the concept of Overfitting and regularization in Logistic Regression       |https://twitter.com/SnehilSeenu/status/1589679416753664001?s=20&t=1uctLel9w6duTeFPtOuwOw
 | 08-11-2022    |Started learning about Neural Networks                                                |https://twitter.com/SnehilSeenu/status/1590031435347693568?s=20&t=-06UIsJg4d8lBNieqp1BWw
+| 09-11-2022    |Watched some more tutorials on NN, and studied about types of AI                      |https://twitter.com/SnehilSeenu/status/1590399880245440512?s=20&t=mpvv5vjhDd8zblHrXtGMvw

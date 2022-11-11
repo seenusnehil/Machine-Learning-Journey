@@ -19,3 +19,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 08-11-2022    |Started learning about Neural Networks                                                |https://twitter.com/SnehilSeenu/status/1590031435347693568?s=20&t=-06UIsJg4d8lBNieqp1BWw
 | 09-11-2022    |Watched some more tutorials on NN, and studied about types of AI                      |https://twitter.com/SnehilSeenu/status/1590399880245440512?s=20&t=mpvv5vjhDd8zblHrXtGMvw
 | 10-11-2022    |Learned about Keras, did some hands on practice of Tensorflow                         |https://twitter.com/SnehilSeenu/status/1590749746121306112?s=20&t=HiKKECTh2ec2HNV6eYRWtQ
+| 10-11-2022    |Learned Forward Propagation, and designed my first neural network                     |https://twitter.com/SnehilSeenu/status/1591095619569201152?s=20&t=DYfkHnxhEh17VKbce3J4vw

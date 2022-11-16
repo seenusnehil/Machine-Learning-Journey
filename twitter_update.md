@@ -24,3 +24,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 13-11-2022    |Studied about feature engineering for regression and neural networks                  |https://twitter.com/SnehilSeenu/status/1591830488490340354?s=20&t=COEpUVJfKHhpMddNxtcNLw
 | 14-11-2022    |Studied about inference, sequential layer mdoelling using Keras-Tensorflow            |https://twitter.com/SnehilSeenu/status/1592192103739973632?s=20&t=xSp2XR5bRYdUjqMYj1d6Ng
 | 15-11-2022    |Studied binary cross entropy and about Visual Information Theory                      |https://twitter.com/SnehilSeenu/status/1592561952609685505?s=20&t=CYBsILxvGbQFjbvEkKBXbw
+| 16-11-2022    |Started the coffee bean roasting prediction project                                   |

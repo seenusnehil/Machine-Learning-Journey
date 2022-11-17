@@ -25,4 +25,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 14-11-2022    |Studied about inference, sequential layer mdoelling using Keras-Tensorflow            |https://twitter.com/SnehilSeenu/status/1592192103739973632?s=20&t=xSp2XR5bRYdUjqMYj1d6Ng
 | 15-11-2022    |Studied binary cross entropy and about Visual Information Theory                      |https://twitter.com/SnehilSeenu/status/1592561952609685505?s=20&t=CYBsILxvGbQFjbvEkKBXbw
 | 16-11-2022    |Started the coffee bean roasting prediction project                                   |https://twitter.com/SnehilSeenu/status/1592879024128561152?s=20&t=ZH60zZFohe-VeRh8XYI2EA
-| 17-11-2022    |Learned about types of activation functions used in neural networks                   |
+| 17-11-2022    |Learned about types of activation functions used in neural networks                   |https://twitter.com/SnehilSeenu/status/1593276185097940993?s=20&t=npRYR1SuuBcND_3tl7Pi8A

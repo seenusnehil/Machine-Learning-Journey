@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$18$** iterations (days) so far...
+**$19$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -27,3 +27,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 16-11-2022    |Started the coffee bean roasting prediction project                                   |https://twitter.com/SnehilSeenu/status/1592879024128561152?s=20&t=ZH60zZFohe-VeRh8XYI2EA
 | 17-11-2022    |Learned about types of activation functions used in neural networks                   |https://twitter.com/SnehilSeenu/status/1593276185097940993?s=20&t=npRYR1SuuBcND_3tl7Pi8A
 | 18-11-2022    |Deep research about ReLU activation function, vanishing gradient problem              |https://twitter.com/SnehilSeenu/status/1593640177175756800?s=20&t=3Hov-pmM7Q8FOevCa_5IMw
+| 19-11-2022    |Studied about multiclass and multilabel classification, softmax regression            |https://twitter.com/SnehilSeenu/status/1594007329376473089?s=20&t=qVuXyx9UFtRF5i6RLz6gnA

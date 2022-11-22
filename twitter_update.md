@@ -30,3 +30,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 19-11-2022    |Studied about multiclass and multilabel classification, softmax regression            |https://twitter.com/SnehilSeenu/status/1594007329376473089?s=20&t=qVuXyx9UFtRF5i6RLz6gnA
 | 20-11-2022    |Worked a bit on the coffee bean roasting prediction project                           |https://twitter.com/SnehilSeenu/status/1594351279274622976?s=20&t=XzTcHomFVvSgJvcvfhQDvw
 | 21-11-2022    |Studied optimization parameters in neural networks                                    |https://twitter.com/SnehilSeenu/status/1594745035828125696?s=20&t=u5vERQWG5-qYkU_yi_wyZg
+| 21-11-2022    |Studied about Adam optimization algo, and about CNN                                   |https://twitter.com/SnehilSeenu/status/1595113229046669312?s=20&t=-tM-NUoFKoVnb6WUvwMOaA

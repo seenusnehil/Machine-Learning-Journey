@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$23$** iterations (days) so far...
+**$24$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -32,3 +32,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 21-11-2022    |Studied optimization parameters in neural networks                                    |https://twitter.com/SnehilSeenu/status/1594745035828125696?s=20&t=u5vERQWG5-qYkU_yi_wyZg
 | 22-11-2022    |Studied about Adam optimization algo, and about CNN                                   |https://twitter.com/SnehilSeenu/status/1595113229046669312?s=20&t=-tM-NUoFKoVnb6WUvwMOaA
 | 23-11-2022    |Read an article on CNN                                                                |https://twitter.com/SnehilSeenu/status/1595459880617644032?s=20&t=xdcTm1xfYAs0e6ZRJjC6yQ
+| 23-11-2022    |Worked on my coffee roasting prediction project with neuron modifications             |https://twitter.com/SnehilSeenu/status/1595836313001144320?s=20&t=C-7Nv-9Ro9XpwoPs1hQkig

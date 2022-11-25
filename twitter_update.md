@@ -33,4 +33,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 22-11-2022    |Studied about Adam optimization algo, and about CNN                                   |https://twitter.com/SnehilSeenu/status/1595113229046669312?s=20&t=-tM-NUoFKoVnb6WUvwMOaA
 | 23-11-2022    |Read an article on CNN                                                                |https://twitter.com/SnehilSeenu/status/1595459880617644032?s=20&t=xdcTm1xfYAs0e6ZRJjC6yQ
 | 24-11-2022    |Worked on my coffee roasting prediction project with neuron modifications             |https://twitter.com/SnehilSeenu/status/1595836313001144320?s=20&t=C-7Nv-9Ro9XpwoPs1hQkig
-| 25-11-2022    |Completed the coffee roasting prediction project                                      |https://twitter.com/SnehilSeenu/status/1595836313001144320?
+| 25-11-2022    |Completed the coffee roasting prediction project                                      |https://twitter.com/SnehilSeenu/status/1596186539033526273?s=20&t=ifCyCIkh8HqGlJqJ1jynPw

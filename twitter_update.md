@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$26$** iterations (days) so far...
+**$27$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -35,3 +35,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 24-11-2022    |Worked on my coffee roasting prediction project with neuron modifications             |https://twitter.com/SnehilSeenu/status/1595836313001144320?s=20&t=C-7Nv-9Ro9XpwoPs1hQkig
 | 25-11-2022    |Completed the coffee roasting prediction project                                      |https://twitter.com/SnehilSeenu/status/1596186539033526273?s=20&t=ifCyCIkh8HqGlJqJ1jynPw
 | 26-11-2022    |Documented ML concepts learned in past few days                                       |https://twitter.com/SnehilSeenu/status/1596554315363385346?s=20&t=tmQsWgrJZUZe_YW-Z3QCPA
+| 27-11-2022    |Revision of concepts                                                                  |https://twitter.com/snehilseenu/status/1596919902882787328?s=20&t=FtJYaqLLNV9fbOWVTk-kvw

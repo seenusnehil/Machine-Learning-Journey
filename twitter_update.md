@@ -36,4 +36,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 25-11-2022    |Completed the coffee roasting prediction project                                      |https://twitter.com/SnehilSeenu/status/1596186539033526273?s=20&t=ifCyCIkh8HqGlJqJ1jynPw
 | 26-11-2022    |Documented ML concepts learned in past few days                                       |https://twitter.com/SnehilSeenu/status/1596554315363385346?s=20&t=tmQsWgrJZUZe_YW-Z3QCPA
 | 27-11-2022    |Revision of concepts                                                                  |https://twitter.com/snehilseenu/status/1596919902882787328?s=20&t=FtJYaqLLNV9fbOWVTk-kvw
-| 27-11-2022    |Practiced with neural networks                                                        |https://twitter.com/snehilseenu/status/1597275749740077056?s=20&t=YM6ilQDMzDFtm1jCBD6QWQ
+| 28-11-2022    |Practiced with neural networks                                                        |https://twitter.com/snehilseenu/status/1597275749740077056?s=20&t=YM6ilQDMzDFtm1jCBD6QWQ

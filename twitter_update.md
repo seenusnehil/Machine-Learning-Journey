@@ -38,4 +38,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 27-11-2022    |Revision of concepts                                                                  |https://twitter.com/snehilseenu/status/1596919902882787328?s=20&t=FtJYaqLLNV9fbOWVTk-kvw
 | 28-11-2022    |Practiced with neural networks                                                        |https://twitter.com/snehilseenu/status/1597275749740077056?s=20&t=YM6ilQDMzDFtm1jCBD6QWQ
 | 29-11-2022    |Revised concepts                                                                      |https://twitter.com/snehilseenu/status/1597635725800837120?s=20&t=BifDZ9TEbgcBQzjRUdQfUA
-| 29-11-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598005370701905920?s=20&t=fcXjF-17QZi2QjjuXdMmLw
+| 30-11-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598005370701905920?s=20&t=fcXjF-17QZi2QjjuXdMmLw

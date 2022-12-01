@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$30$** iterations (days) so far...
+**$31$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -39,3 +39,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 28-11-2022    |Practiced with neural networks                                                        |https://twitter.com/snehilseenu/status/1597275749740077056?s=20&t=YM6ilQDMzDFtm1jCBD6QWQ
 | 29-11-2022    |Revised concepts                                                                      |https://twitter.com/snehilseenu/status/1597635725800837120?s=20&t=BifDZ9TEbgcBQzjRUdQfUA
 | 30-11-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598005370701905920?s=20&t=fcXjF-17QZi2QjjuXdMmLw
+| 01-12-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598359053184311303?s=20&t=28sJUmoiSAEcHIP5BuxXRA

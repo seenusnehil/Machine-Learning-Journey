@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$31$** iterations (days) so far...
+**$32$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -40,3 +40,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 29-11-2022    |Revised concepts                                                                      |https://twitter.com/snehilseenu/status/1597635725800837120?s=20&t=BifDZ9TEbgcBQzjRUdQfUA
 | 30-11-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598005370701905920?s=20&t=fcXjF-17QZi2QjjuXdMmLw
 | 01-12-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598359053184311303?s=20&t=28sJUmoiSAEcHIP5BuxXRA
+| 02-12-2022    |Took sone rest after endsem exams                                                     |https://twitter.com/snehilseenu/status/1598738284662116353?s=20

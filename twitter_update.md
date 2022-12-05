@@ -42,4 +42,5 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 01-12-2022    |No progress, couldn't learn anything new                                              |https://twitter.com/snehilseenu/status/1598359053184311303?s=20&t=28sJUmoiSAEcHIP5BuxXRA
 | 02-12-2022    |Took sone rest after endsem exams                                                     |https://twitter.com/snehilseenu/status/1598738284662116353?s=20
 | 03-12-2022    |Learned about data-preprocessing techniques                                           |https://twitter.com/snehilseenu/status/1599086489245462529?s=20&t=PNzNWiqB_u0XmQSlMMAgqQ
-| 04-12-2022    |Practices some data-preprocessing techniques onreal-life data sets                    |https://twitter.com/snehilseenu/status/1599445603817517057?s=20&t=N_6EX5fJ9Aylb9eniFomBg
+| 04-12-2022    |Practiced some data-preprocessing techniques onreal-life data sets                    |https://twitter.com/snehilseenu/status/1599445603817517057?s=20&t=N_6EX5fJ9Aylb9eniFomBg
+| 05-12-2022    |Practiced some more data-preprocessing techniques                                     |https://twitter.com/snehilseenu/status/1599804920735358978?s=20&t=6uZGUQbr2SXPnU4hfyRW3w

@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$36$** iterations (days) so far...
+**$37$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -44,4 +44,5 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 03-12-2022    |Learned about data-preprocessing techniques                                           |https://twitter.com/snehilseenu/status/1599086489245462529?s=20&t=PNzNWiqB_u0XmQSlMMAgqQ
 | 04-12-2022    |Practiced some data-preprocessing techniques onreal-life data sets                    |https://twitter.com/snehilseenu/status/1599445603817517057?s=20&t=N_6EX5fJ9Aylb9eniFomBg
 | 05-12-2022    |Practiced some more data-preprocessing techniques                                     |https://twitter.com/snehilseenu/status/1599804920735358978?s=20&t=6uZGUQbr2SXPnU4hfyRW3w
-| 06-12-2022    |Didi some ML math and brainstormed for AI hackathon                                   |https://twitter.com/snehilseenu/status/1600172310501404672?s=20&t=NPEmZZQrOzi1CqOKwjZg6g
+| 06-12-2022    |Did some ML math and brainstormed for AI hackathon                                   |https://twitter.com/snehilseenu/status/1600172310501404672?s=20&t=NPEmZZQrOzi1CqOKwjZg6g
+| 07-12-2022    |Worked a bit on blog writing                                                         |https://twitter.com/snehilseenu/status/1600550244697407490?s=20&t=5lReglY_gP-4cdP_Uwjofg

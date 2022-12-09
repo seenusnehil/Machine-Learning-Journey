@@ -18,7 +18,7 @@ Hi, I am Snehil Seenu, currently a 3rd year CSE undergrad, and I am a machine le
 You all can connect with me on:
 1. [Twitter](https://twitter.com/SnehilSeenu)
 2. [Linkedin](https://www.linkedin.com/in/snehilseenu/)
-3. [Medium Blog](https://medium.com/@snehilseenu)
+3. [Hashnode](https://snehilseenu.hashnode.dev/)
 4. [Kaggle](https://www.kaggle.com/snehilseenu)
 
 My Email ID: snehilseenu@gmail.com

@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$39$** iterations (days) so far...
+**$40$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -48,3 +48,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 07-12-2022    |Worked a bit on blog writing                                                         |https://twitter.com/snehilseenu/status/1600550244697407490?s=20&t=5lReglY_gP-4cdP_Uwjofg
 | 08-12-2022    |Learned about back propagation algorithm                                             |https://twitter.com/snehilseenu/status/1600872844476715010?s=20&t=946Vq3luOm3IAjqqEJsq0A
 | 09-12-2022    |Learned about back propagation, computational graph and sympy library                |https://twitter.com/snehilseenu/status/1601259095562280961?s=20&t=9GR7kv3Ym8lKh21NtANoqA
+| 10-12-2022    |Busy with Assembly AI Hackathon                                                      |https://twitter.com/snehilseenu/status/1601631382698360834?s=20&t=Gon7KMwvewQ1XSkdECVYYg

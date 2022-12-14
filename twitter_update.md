@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$43$** iterations (days) so far...
+**$44$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -52,3 +52,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 11-12-2022    |Busy with Assembly AI Hackathon - Day 2                                              |https://twitter.com/snehilseenu/status/1601995392782323712?s=20&t=qoejavx8dJ1LtGa6Zss_Yw
 | 12-12-2022    |Unproductive                                                                         |https://twitter.com/snehilseenu/status/1602349092767936512?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
 | 13-12-2022    |Worked on heart attack prediction model (internship work)                            |https://twitter.com/snehilseenu/status/1602711750033690624?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
+| 14-12-2022    |Learned about model evaluating techniques for regression and classification          |https://twitter.com/snehilseenu/status/1603059021430558721?s=20&t=6TlZutf06x1ir5351FSiHA

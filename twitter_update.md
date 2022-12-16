@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$44$** iterations (days) so far...
+**$45$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -44,12 +44,13 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 03-12-2022    |Learned about data-preprocessing techniques                                           |https://twitter.com/snehilseenu/status/1599086489245462529?s=20&t=PNzNWiqB_u0XmQSlMMAgqQ
 | 04-12-2022    |Practiced some data-preprocessing techniques onreal-life data sets                    |https://twitter.com/snehilseenu/status/1599445603817517057?s=20&t=N_6EX5fJ9Aylb9eniFomBg
 | 05-12-2022    |Practiced some more data-preprocessing techniques                                     |https://twitter.com/snehilseenu/status/1599804920735358978?s=20&t=6uZGUQbr2SXPnU4hfyRW3w
-| 06-12-2022    |Did some ML math and brainstormed for AI hackathon                                   |https://twitter.com/snehilseenu/status/1600172310501404672?s=20&t=NPEmZZQrOzi1CqOKwjZg6g
-| 07-12-2022    |Worked a bit on blog writing                                                         |https://twitter.com/snehilseenu/status/1600550244697407490?s=20&t=5lReglY_gP-4cdP_Uwjofg
-| 08-12-2022    |Learned about back propagation algorithm                                             |https://twitter.com/snehilseenu/status/1600872844476715010?s=20&t=946Vq3luOm3IAjqqEJsq0A
-| 09-12-2022    |Learned about back propagation, computational graph and sympy library                |https://twitter.com/snehilseenu/status/1601259095562280961?s=20&t=9GR7kv3Ym8lKh21NtANoqA
-| 10-12-2022    |Busy with Assembly AI Hackathon                                                      |https://twitter.com/snehilseenu/status/1601631382698360834?s=20&t=Gon7KMwvewQ1XSkdECVYYg
-| 11-12-2022    |Busy with Assembly AI Hackathon - Day 2                                              |https://twitter.com/snehilseenu/status/1601995392782323712?s=20&t=qoejavx8dJ1LtGa6Zss_Yw
-| 12-12-2022    |Unproductive                                                                         |https://twitter.com/snehilseenu/status/1602349092767936512?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
-| 13-12-2022    |Worked on heart attack prediction model (internship work)                            |https://twitter.com/snehilseenu/status/1602711750033690624?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
-| 14-12-2022    |Learned about model evaluating techniques for regression and classification          |https://twitter.com/snehilseenu/status/1603059021430558721?s=20&t=6TlZutf06x1ir5351FSiHA
+| 06-12-2022    |Did some ML math and brainstormed for AI hackathon                                    |https://twitter.com/snehilseenu/status/1600172310501404672?s=20&t=NPEmZZQrOzi1CqOKwjZg6g
+| 07-12-2022    |Worked a bit on blog writing                                                          |https://twitter.com/snehilseenu/status/1600550244697407490?s=20&t=5lReglY_gP-4cdP_Uwjofg
+| 08-12-2022    |Learned about back propagation algorithm                                              |https://twitter.com/snehilseenu/status/1600872844476715010?s=20&t=946Vq3luOm3IAjqqEJsq0A
+| 09-12-2022    |Learned about back propagation, computational graph and sympy library                 |https://twitter.com/snehilseenu/status/1601259095562280961?s=20&t=9GR7kv3Ym8lKh21NtANoqA
+| 10-12-2022    |Busy with Assembly AI Hackathon                                                       |https://twitter.com/snehilseenu/status/1601631382698360834?s=20&t=Gon7KMwvewQ1XSkdECVYYg
+| 11-12-2022    |Busy with Assembly AI Hackathon - Day 2                                               |https://twitter.com/snehilseenu/status/1601995392782323712?s=20&t=qoejavx8dJ1LtGa6Zss_Yw
+| 12-12-2022    |Unproductive                                                                          |https://twitter.com/snehilseenu/status/1602349092767936512?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
+| 13-12-2022    |Worked on heart attack prediction model (internship work)                             |https://twitter.com/snehilseenu/status/1602711750033690624?s=20&t=1OFMa_z_ymVCoRO-Eru5VA
+| 14-12-2022    |Learned about model evaluating techniques for regression and classification           |https://twitter.com/snehilseenu/status/1603059021430558721?s=20&t=6TlZutf06x1ir5351FSiHA
+| 15-12-2022    |Started and completed the project - Heart-Attack-Prediction                           |https://twitter.com/snehilseenu/status/1603413340218621954?s=20&t=xVKFCi_9D8wQVcapnlS39g

@@ -2,7 +2,7 @@
 
 # Machine Learning Journey
 Hi guys, starting from November 1, 2022, I'll we starting my 365 days of Machine Learning challenge and push myself to learn daily on a regular basis.
-If you're too a machine learning enthusiast then lets join hands and learn together. The fun part is that we all v=can share, collaborate and learn together.
+If you're too a machine learning enthusiast then lets join hands and learn together. The fun part is that we all can share, collaborate and learn together.
 
 ## Little background
 I have been doing machine learning for quite a long time, and currently working on Neural networks. Though I have done quite a few things in ML, I'll restart everything br revising concepts from scratch.

@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$50$** iterations (days) so far...
+**$51$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -59,3 +59,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 18-12-2022    |Worked on the Brain Stroke Prediction project                                         |https://twitter.com/snehilseenu/status/1604603444404183041?s=20&t=OsiHNTJVn_DSFOK7GuC7kg
 | 19-12-2022    |Learned more about model's bias and variance                                          |https://twitter.com/snehilseenu/status/1604878584862060546?s=20&t=81hnR2zXgxOjOIa_euIEAQ
 | 20-12-2022    |Completed the Brain Stroke Prediction project                                         |https://twitter.com/snehilseenu/status/1605229576254541824?s=20
+| 21-12-2022    |Learned about Machine Learning Development Process                                    |https://twitter.com/snehilseenu/status/1605597132412846081?s=20&t=7NvLyZr7gnEQDyNzk6AAYw

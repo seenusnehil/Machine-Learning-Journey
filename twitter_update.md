@@ -60,4 +60,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 19-12-2022    |Learned more about model's bias and variance                                          |https://twitter.com/snehilseenu/status/1604878584862060546?s=20&t=81hnR2zXgxOjOIa_euIEAQ
 | 20-12-2022    |Completed the Brain Stroke Prediction project                                         |https://twitter.com/snehilseenu/status/1605229576254541824?s=20
 | 21-12-2022    |Learned about Machine Learning Development Process                                    |https://twitter.com/snehilseenu/status/1605597132412846081?s=20&t=7NvLyZr7gnEQDyNzk6AAYw
-| 22-12-2022    |Learned Transfer Learning, explored Matplotlib                                        |https://twitter.com/snehilseenu/status/1605966334709223426?s=20&t=lyz-fyQKQmEyec2IsYYYMA
+| 22-12-2022    |Studied Transfer Learning, explored Matplotlib                                        |https://twitter.com/snehilseenu/status/1605966334709223426?s=20&t=lyz-fyQKQmEyec2IsYYYMA

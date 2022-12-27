@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$56$** iterations (days) so far...
+**$57$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -64,4 +64,5 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 23-12-2022    |Explored error metrics for skewed datasets                                            |https://twitter.com/snehilseenu/status/1606332150281912321?s=20&t=wte8r7MQBFcnYHeRl4tYhw
 | 24-12-2022    |Learned about Matplotlib library                                                      |https://twitter.com/snehilseenu/status/1606700970314174465?s=20&t=5DpqjGDVBqRtqDZNLTfLSw
 | 25-12-2022    |Explored the  Matplotlib library                                                      |https://twitter.com/snehilseenu/status/1607060781866315777?s=20&t=5DpqjGDVBqRtqDZNLTfLSw
-| 25-12-2022    |Completed with Matplotlib library toturial                                            |https://twitter.com/snehilseenu/status/1607425818086768642?s=20&t=rgNq8-9FwplswouE8Dl27Q
+| 26-12-2022    |Completed with Matplotlib library toturial                                            |https://twitter.com/snehilseenu/status/1607425818086768642?s=20&t=rgNq8-9FwplswouE8Dl27Q
+| 27-12-2022    |Didn't do anything new                                                                |https://twitter.com/snehilseenu/status/1607747844810866689?s=20&t=vZeSHcFxxdQo21603xXwIg

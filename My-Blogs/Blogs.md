@@ -5,6 +5,6 @@ The topics for the blogs can be both related to ML/AI and non-tech (general blog
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
 
-| Date          | Name of the Blog                                                                  | Link to the article          |
+| Date          | Name of the Blog                                                                  | Link to the Blog          |
 | ---           | -----------------                                                                 |----------------------------- |
 | 29-12-2022    |A Deep Dive into AI Technology                                                     |https://snehilseenu.hashnode.dev/a-deep-dive-into-ai-technology

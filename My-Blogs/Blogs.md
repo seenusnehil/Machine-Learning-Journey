@@ -6,4 +6,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
 | Date          | Name of the Blog                                                                  | Link to the article          |
 | ---           | -----------------                                                                 |----------------------------- |
-| 03-11-2022    |A Deep Dive into AI Technology                                                     |https://snehilseenu.hashnode.dev/a-deep-dive-into-ai-technology
+| 29-12-2022    |A Deep Dive into AI Technology                                                     |https://snehilseenu.hashnode.dev/a-deep-dive-into-ai-technology

@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$60$** iterations (days) so far...
+**$61$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -69,3 +69,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 28-12-2022    |Documented my Matplotlib learnings                                                    |https://twitter.com/snehilseenu/status/1608522748820869120?s=20
 | 29-12-2022    |Learned about Decision tree algorithm and published my first blog                     |https://twitter.com/snehilseenu/status/1608522923266174977?s=20
 | 30-12-2022    |Explored more about Decision trees                                                    |https://twitter.com/snehilseenu/status/1608862639689699328?s=20&t=iYKkJ3ADuVNtJRAr-Qdwww
+| 30-12-2022    |TOOK A BREAK FROM LEARNING TODAY                                                      |https://twitter.com/snehilseenu/status/1608862639689699328?

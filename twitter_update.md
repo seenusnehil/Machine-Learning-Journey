@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$64$** iterations (days) so far...
+**$65$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -73,3 +73,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 01-01-2023    |Learned about Random Forest and XG Boost algorithm                                    |https://twitter.com/snehilseenu/status/1609588340294291456?s=20&t=bPngf_Fzz81zDLiYaALviQ
 | 02-01-2023    |Practiced code for Random Forest and XG Boost algorithm                               |https://twitter.com/snehilseenu/status/1609950506000187393?s=20&t=9g5qvfbnvd33wb-lUbXJ0g
 | 03-01-2023    |Revised the fundamental neural network concepts                                       |https://twitter.com/snehilseenu/status/1610306948217589763?s=20&t=AM4TtMkKrSfTDpR2_kjTSw
+| 04-01-2023    |Revised about activation functions and tensorflow                                     |https://twitter.com/snehilseenu/status/1610693970904113152?s=20&t=pPrOaweUXXl6lB-o_QuTWQ

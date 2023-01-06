@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$66$** iterations (days) so far...
+**$67$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -75,3 +75,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 03-01-2023    |Revised the fundamental neural network concepts                                       |https://twitter.com/snehilseenu/status/1610306948217589763?s=20&t=AM4TtMkKrSfTDpR2_kjTSw
 | 04-01-2023    |Revised about activation functions and tensorflow                                     |https://twitter.com/snehilseenu/status/1610693970904113152?s=20&t=pPrOaweUXXl6lB-o_QuTWQ
 | 04-01-2023    |Revised about multiclass classification                                               |https://twitter.com/snehilseenu/status/1611015877687914496?s=20&t=0MZljeNh6dw4Wr8PHVEkzw
+| 04-01-2023    |Revised performance metrics for an ML model                                           |https://twitter.com/snehilseenu/status/1611378856077950977?s=20&t=mcQsBpcVHoKFUnktQ_7AXQ

@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$67$** iterations (days) so far...
+**$68$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -74,5 +74,6 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 02-01-2023    |Practiced code for Random Forest and XG Boost algorithm                               |https://twitter.com/snehilseenu/status/1609950506000187393?s=20&t=9g5qvfbnvd33wb-lUbXJ0g
 | 03-01-2023    |Revised the fundamental neural network concepts                                       |https://twitter.com/snehilseenu/status/1610306948217589763?s=20&t=AM4TtMkKrSfTDpR2_kjTSw
 | 04-01-2023    |Revised about activation functions and tensorflow                                     |https://twitter.com/snehilseenu/status/1610693970904113152?s=20&t=pPrOaweUXXl6lB-o_QuTWQ
-| 04-01-2023    |Revised about multiclass classification                                               |https://twitter.com/snehilseenu/status/1611015877687914496?s=20&t=0MZljeNh6dw4Wr8PHVEkzw
-| 04-01-2023    |Revised performance metrics for an ML model                                           |https://twitter.com/snehilseenu/status/1611378856077950977?s=20&t=mcQsBpcVHoKFUnktQ_7AXQ
+| 05-01-2023    |Revised about multiclass classification                                               |https://twitter.com/snehilseenu/status/1611015877687914496?s=20&t=0MZljeNh6dw4Wr8PHVEkzw
+| 06-01-2023    |Revised performance metrics for an ML model                                           |https://twitter.com/snehilseenu/status/1611378856077950977?s=20&t=mcQsBpcVHoKFUnktQ_7AXQ
+| 07-01-2023    |Worked on a new blog, and revised few concepts                                        |https://twitter.com/snehilseenu/status/1611772358003687424?s=20&t=9bjslho6gPhY9RIlCisR4A

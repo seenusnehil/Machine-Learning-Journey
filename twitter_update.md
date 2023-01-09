@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$69$** iterations (days) so far...
+**$70$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -78,3 +78,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 06-01-2023    |Revised performance metrics for an ML model                                           |https://twitter.com/snehilseenu/status/1611378856077950977?s=20&t=mcQsBpcVHoKFUnktQ_7AXQ
 | 07-01-2023    |Worked on a new blog, and revised few concepts                                        |https://twitter.com/snehilseenu/status/1611772358003687424?s=20&t=9bjslho6gPhY9RIlCisR4A
 | 08-01-2023    |Did nothing                                                                           |https://twitter.com/snehilseenu/status/1612119209127051266?s=20&t=_AYZVIqJ65limYAsocgwzA
+| 09-01-2023    |Did nothing                                                                           |https://twitter.com/snehilseenu/status/1612486769341091843?s=20&t=nicYqYEyUlgJDZKtjMdQHQ

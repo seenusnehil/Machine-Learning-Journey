@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$75$** iterations (days) so far...
+**$76$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -84,3 +84,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 12-01-2023    |Learned about K-means clustering algorithm                                            |https://twitter.com/snehilseenu/status/1613569109048066048?s=20&t=o3S1thBQnPfDOJsAx8NSqg
 | 13-01-2023    |Practiced K-means in code                                                             |https://twitter.com/snehilseenu/status/1613964802237542400?s=20&t=3gkoJ7aLiEFfTQA0JLyOQg
 | 14-01-2023    |Did Nothing                                                                           |https://twitter.com/snehilseenu/status/1614305774796435461?s=20&t=lcsvkb9SfRocOt4G0o5t_Q
+| 14-01-2023    |Revised some performance metric concepts                                              |https://twitter.com/snehilseenu/status/1614665680644890627?s=20&t=B4nBTv2DLsecB2PiVBuQCg

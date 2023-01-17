@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$77$** iterations (days) so far...
+**$78$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -86,3 +86,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 14-01-2023    |Did Nothing                                                                           |https://twitter.com/snehilseenu/status/1614305774796435461?s=20&t=lcsvkb9SfRocOt4G0o5t_Q
 | 15-01-2023    |Revised some performance metric concepts                                              |https://twitter.com/snehilseenu/status/1614665680644890627?s=20&t=B4nBTv2DLsecB2PiVBuQCg
 | 16-01-2023    |Revised the concept of transfer learning                                              |https://twitter.com/snehilseenu/status/1615031081518141440?s=20&t=oMGLoSdKwpfUGU4RM8Ng2w
+| 16-01-2023    |Learned about matrix/vectors norms and practiced K-means algo on image compression    |https://twitter.com/snehilseenu/status/1615392946840571912?s=20&t=NtGrpY9vtxrB3XHmgGoJsQ

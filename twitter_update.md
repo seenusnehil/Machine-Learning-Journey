@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$64$** iterations (days) so far...
+**$78 + 79 + 80 + 81 + 82 + 83 + 84 + 85 + 86 + 87 + 88 + 89$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -73,3 +73,17 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 01-01-2023    |Learned about Random Forest and XG Boost algorithm                                    |https://twitter.com/snehilseenu/status/1609588340294291456?s=20&t=bPngf_Fzz81zDLiYaALviQ
 | 02-01-2023    |Practiced code for Random Forest and XG Boost algorithm                               |https://twitter.com/snehilseenu/status/1609950506000187393?s=20&t=9g5qvfbnvd33wb-lUbXJ0g
 | 03-01-2023    |Revised the fundamental neural network concepts                                       |https://twitter.com/snehilseenu/status/1610306948217589763?s=20&t=AM4TtMkKrSfTDpR2_kjTSw
+| 04-01-2023    |Revised about activation functions and tensorflow                                     |https://twitter.com/snehilseenu/status/1610693970904113152?s=20&t=pPrOaweUXXl6lB-o_QuTWQ
+| 05-01-2023    |Revised about multiclass classification                                               |https://twitter.com/snehilseenu/status/1611015877687914496?s=20&t=0MZljeNh6dw4Wr8PHVEkzw
+| 06-01-2023    |Revised performance metrics for an ML model                                           |https://twitter.com/snehilseenu/status/1611378856077950977?s=20&t=mcQsBpcVHoKFUnktQ_7AXQ
+| 07-01-2023    |Worked on a new blog, and revised few concepts                                        |https://twitter.com/snehilseenu/status/1611772358003687424?s=20&t=9bjslho6gPhY9RIlCisR4A
+| 08-01-2023    |Did nothing                                                                           |https://twitter.com/snehilseenu/status/1612119209127051266?s=20&t=wn-JUcstlkAFqwuPXh6SiQ
+| 09-01-2023    |Did nothing                                                                           |https://twitter.com/snehilseenu/status/1612486769341091843?s=20&t=nicYqYEyUlgJDZKtjMdQHQ
+| 10-01-2023    |Revised decision trees                                                                |https://twitter.com/snehilseenu/status/1612839810393329664?s=20&t=wn-JUcstlkAFqwuPXh6SiQ
+| 11-01-2023    |Researched a bit about new project                                                    |https://twitter.com/snehilseenu/status/1613218219803955200?s=20&t=wn-JUcstlkAFqwuPXh6SiQ
+| 12-01-2023    |Learned about K-means clustering algorithm                                            |https://twitter.com/snehilseenu/status/1613569109048066048?s=20&t=o3S1thBQnPfDOJsAx8NSqg
+| 13-01-2023    |Practiced K-means in code                                                             |https://twitter.com/snehilseenu/status/1613964802237542400?s=20&t=3gkoJ7aLiEFfTQA0JLyOQg
+| 14-01-2023    |Did Nothing                                                                           |https://twitter.com/snehilseenu/status/1614305774796435461?s=20&t=lcsvkb9SfRocOt4G0o5t_Q
+| 15-01-2023    |Revised some performance metric concepts                                              |https://twitter.com/snehilseenu/status/1614665680644890627?s=20&t=B4nBTv2DLsecB2PiVBuQCg
+| 16-01-2023    |Revised the concept of transfer learning                                              |https://twitter.com/snehilseenu/status/1615031081518141440?s=20&t=oMGLoSdKwpfUGU4RM8Ng2w
+| 17-01-2023    |Learned about matrix/vectors norms and practiced K-means algo on image compression    |https://twitter.com/snehilseenu/status/1615392946840571912?s=20&t=NtGrpY9vtxrB3XHmgGoJsQ

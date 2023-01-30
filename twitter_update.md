@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$78 + 79 + 80 + 81 + 82 + 83 + 84 + 85 + 86 + 87 + 88 + 89$** iterations (days) so far...
+**$91$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -87,3 +87,6 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 15-01-2023    |Revised some performance metric concepts                                              |https://twitter.com/snehilseenu/status/1614665680644890627?s=20&t=B4nBTv2DLsecB2PiVBuQCg
 | 16-01-2023    |Revised the concept of transfer learning                                              |https://twitter.com/snehilseenu/status/1615031081518141440?s=20&t=oMGLoSdKwpfUGU4RM8Ng2w
 | 17-01-2023    |Learned about matrix/vectors norms and practiced K-means algo on image compression    |https://twitter.com/snehilseenu/status/1615392946840571912?s=20&t=NtGrpY9vtxrB3XHmgGoJsQ
+| 17-01-2023 to 28-01-2023    |Attended machine learning events and was busy with some other tasks     |https://twitter.com/snehilseenu/status/1619762748090634241?s=20&t=eOO12oh5EPsHchaiT2c8Jw
+| 29-01-2023    |Completed the project Malware detection                                               |https://twitter.com/snehilseenu/status/1619762748090634241?s=20&t=eOO12oh5EPsHchaiT2c8Jw
+| 30-01-2023    |Revised K-means algorithm                                                             |https://twitter.com/snehilseenu/status/1620102420994088960?s=20&t=eOO12oh5EPsHchaiT2c8Jw

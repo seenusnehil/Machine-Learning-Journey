@@ -14,3 +14,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 18-11-2022    |A Gentle Introduction to the Rectified Linear Unit (ReLU)                             |https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 | 23-11-2022    |Beginner’s Guide for Convolutional Neural Network (CNN / ConvNets)                    |https://towardsdatascience.com/beginners-guide-for-convolutional-neural-network-cnn-convnets-5a5e725ea581
 | 03-12-2022    |A Comprehensive Guide to Data Preprocessing                                           |https://neptune.ai/blog/data-preprocessing-guide
+| 03-02-2022    |Reinforcement learning 101                                                            |https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292

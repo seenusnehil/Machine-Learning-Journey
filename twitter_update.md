@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$94$** iterations (days) so far...
+**$95$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -91,3 +91,6 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 29-01-2023    |Completed the project Malware detection                                               |https://twitter.com/snehilseenu/status/1619762748090634241?s=20&t=eOO12oh5EPsHchaiT2c8Jw
 | 30-01-2023    |Revised K-means algorithm                                                             |https://twitter.com/snehilseenu/status/1620102420994088960?s=20&t=eOO12oh5EPsHchaiT2c8Jw
 | 31-01-2023    |Tried Neural network approach in malware detection project                            |https://twitter.com/snehilseenu/status/1620479582205005825?s=20&t=1i-n4rCp2tzYRSboUm4mKg
+| 01-02-2023    |Worked on Genetic aalgorithm for college project                                      |https://twitter.com/snehilseenu/status/1620828759522942978?s=20&t=pUeFA-q5DO_AFmJpIGcVyA
+| 02-02-2023    |Spent some time on scikit-learn document                                              |https://twitter.com/snehilseenu/status/1621185669484916736?s=20&t=pUeFA-q5DO_AFmJpIGcVyA
+| 03-02-2023    |Went through streamlit documentation and read an article on reinforcement learning    |https://twitter.com/snehilseenu/status/1621540753179803648?s=20&t=pUeFA-q5DO_AFmJpIGcVyA

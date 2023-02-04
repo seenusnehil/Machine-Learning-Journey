@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$95$** iterations (days) so far...
+**$96$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -94,3 +94,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 01-02-2023    |Worked on Genetic aalgorithm for college project                                      |https://twitter.com/snehilseenu/status/1620828759522942978?s=20&t=pUeFA-q5DO_AFmJpIGcVyA
 | 02-02-2023    |Spent some time on scikit-learn document                                              |https://twitter.com/snehilseenu/status/1621185669484916736?s=20&t=pUeFA-q5DO_AFmJpIGcVyA
 | 03-02-2023    |Went through streamlit documentation and read an article on reinforcement learning    |https://twitter.com/snehilseenu/status/1621540753179803648?s=20&t=pUeFA-q5DO_AFmJpIGcVyA
+| 04-02-2023    |Revised learning curves for model's training                                          |https://twitter.com/snehilseenu/status/1621913779855568898?s=20&t=8fmNHCnl14bLujYT8gSD3Q

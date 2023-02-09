@@ -4,7 +4,7 @@ My progress over the next $365$ days! Starting from **`1st November 2022`**, I'l
 
 You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 
-**$100$** iterations (days) so far...
+**$101$** iterations (days) so far...
 
 
 | Date          | Topic                                                                                | Link             |
@@ -99,3 +99,4 @@ You can find ***Snehil Seenu*** [here](https://twitter.com/SnehilSeenu)
 | 06-02-2023    |Read an article on EDA in machine learning                                            |https://twitter.com/snehilseenu/status/1622650138442498048?s=20&t=zjW0xVMRM2_R6buC2CCTpA
 | 07-02-2023    |Worked a bit on feature engineering course                                            |https://twitter.com/snehilseenu/status/1623005547862822913?s=20&t=1rUUlsKFSjfDLJxVH1JEOw
 | 08-02-2023    |Started with streamlit for frontend                                                   |https://twitter.com/snehilseenu/status/1623373570985594880?s=20&t=r2wPKfWF3lOdbX9HHosuzw
+| 08-02-2023    |Practiced more on streamlit                                                           |https://twitter.com/snehilseenu/status/1623740753708220422?s=20&t=5-0rCKlA_5r_KmTjfPqAGA
